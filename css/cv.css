@@ -1,4 +1,16 @@
 body{
     font-family: 'Abel';font-size: 22px;
-    
+}
+#skills{
+    width: 100%;
+    height: fit-content;
+    padding: 20px;
+    background-color: lightblue
+}
+#skills-list{
+    display: flex;
+    flex-direction: row
+}
+#skills-list li{
+    padding: 20px
 }
